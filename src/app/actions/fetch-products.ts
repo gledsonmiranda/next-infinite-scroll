@@ -1,4 +1,3 @@
-'use server';
 import { TBeer } from '@/types';
 
 export async function fetchBeers(page: number) {
